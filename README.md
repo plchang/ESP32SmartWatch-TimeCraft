@@ -1,1 +1,1 @@
-# MAX30102
+# ESP32SmartWatch
