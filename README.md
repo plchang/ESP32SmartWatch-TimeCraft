@@ -7,3 +7,5 @@
 軟體: microPy
 
 ![image](https://github.com/plchang/ESP32SmartWatch-TimeCraft/assets/149220351/9fb4027e-db9f-4284-b2fa-c8ed1b84ac8c)
+
+
